@@ -14,6 +14,7 @@
 %\renewcommand{\familydefault}{\sfdefault}    % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 \nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
 %\usepackage[natbib=true,sorting=ydnt]{biblatex}
+
 % character encoding
 \usepackage[utf8]{inputenc}                  % if you are not using xelatex ou lualatex, replace by the encoding you are using
 \usepackage{textcomp}
@@ -28,7 +29,7 @@
 \usepackage[backend=bibtex,style=phys,biblabel=brackets,defernumbers=true]{biblatex}
 \addbibresource{pubs.bib}
 
-\newcommand{\cvreference}[7]{%
+\newcommand{\cvreference}[7]{
 	\textbf{#1}\newline% Name
 	\ifthenelse{\equal{#2}{}}{}{\addresssymbol~#2\newline}%
 	\ifthenelse{\equal{#3}{}}{}{#3\newline}%
@@ -90,7 +91,7 @@
 %\cvitem{supervisors}{Supervisors}
 %\cvitem{description}{Short thesis abstract}
 \section{Research Experience}
-\cventry{2021--Current}{Facility for Rare Isotope Beams}{Theoretical Nuclear Dynamics}{}{}{Postdoctoral research associate investigating nuclear dynamics with a focus on microscopic descriptions of fission processes. Continued effort towards developing and maintaining state of the art nuclear simulation software. Advised by Prof. Witek Nazarewicz.}
+\cventry{2021--Current}{Facility for Rare Isotope Beams}{Theoretical Nuclear Dynamics}{}{}{Postdoctoral research associate investigating real-time nuclear dynamics with a focus on microscopic descriptions of fission and reaction processes. Continued effort towards developing and maintaining state of the art nuclear simulation software. Advised by Prof. Witek Nazarewicz.}
 \cventry{2020--2021}{Texas A\&M}{Theoretical Nuclear Dynamics}{}{}{Postdoctoral research associate in the CENTAUR Center for excellence investigating basic nuclear physics and related processes. Duties include developing performant simulation software and running at scale on leadership class computers. Advised by Prof. Jeremy Holt.}
 \cventry{2015--2020}{Vanderbilt University}{Theoretical Nuclear Dynamics}{}{}{Using time-dependent density functional theory (TDDFT) and its extensions to study low-energy nuclear reactions. Substantial effort devoted to maintaining and extending modern TDDFT software. Advised by Prof. Sait Umar.}
 \cventry{May 2018, March 2019, Feb.~2020}{Visiting Researcher}{Australian National University}{Canberra, Australia}{}{Invited guest of Prof. Cedric Simenel at the Australian National University primarily investigating low-energy nuclear reactions using TDDFT.}
@@ -98,46 +99,52 @@
 \cventry{Fall 2014}{Frankfurt Institute for Advanced Studies}{Theoretical Study of Nuclear Decay Modes in Neutron Rich Super Heavy Elements}{}{}{Theoretical study into characteristics and properties of extremely neutron rich elements under the supervision of Prof. Walter Greiner.}
 %\cventry{Summer 2014}{GSI Helmholtz Centre for Heavy Ion Research}{Mass Measurements of Heavy Ions using SHIPTRAP Detector}{}{}{Work done using the SHIPTRAP detector at GSI to obtain direct measurements of heavy ions produced by the SHIP (Separator for Heavy Ion reaction Products) velocity filter. The project was supervised by Dr. Michael Block}
 %\cventry{2013--2014}{Berea College}{Exploration of Half-Metallic Heusler Alloys}{}{}{Study and analysis of Heusler alloys and their properties using x-ray diffraction and low temperature vibrating sample magnetometry.}
-
-\section{Teaching Experience}
- %
-%Detailed achievements:%
-%\begin{itemize}%
-%\item Achievement 1;
-%\item Achievement 2, with sub-achievements:
-%  \begin{itemize}%
-%  \item Sub-achievement (a);
-%  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
-%    \begin{itemize}
-%    \item Sub-sub-achievement i;
-%    \item Sub-sub-achievement ii;
-%    \item Sub-sub-achievement iii;
-%    \end{itemize}
-%  \item Sub-achievement (c);
-%  \end{itemize}
-%\item Achievement 3.
-%\end{itemize}
-\cventry{Fall 2018}{Practice and Pedagogy Leader}{Vanderbilt University Center for Teaching}{Nashville, TN}{}{Position co-leading the pedagogical component of incoming teaching assistant orientation for physics.}
-\cventry{2015--2017}{Physics Teaching Assistant}{Vanderbilt University}{Nashville, TN}{}{Position teaching undergraduate lab courses in the physics department at Vanderbilt.}
-\cventry{Fall 2017}{Teaching Affiliate}{Vanderbilt University Center for Teaching}{Nashville, TN}{}{Position leading the orientation of a group of incoming teaching assistants and organizing follow-up sessions to ease the transition into a teaching role at the university.}
-\cventry{2013--2015}{Physics Teaching Assistant}{Berea College Physics Department}{Berea, KY}{}{Position working with students to help with their studies in physics, as well as continuing the research duties mentioned above.}
-\cventry{2013--2015}{Computer Science Teaching Assistant}{Berea College Computer Science Department}{Berea, KY}{}{Position tutoring students and assisting development of a new introductory programming course.}
+%
+%\section{Teaching Experience}
+% %
+%%Detailed achievements:%
+%%\begin{itemize}%
+%%\item Achievement 1;
+%%\item Achievement 2, with sub-achievements:
+%%  \begin{itemize}%
+%%  \item Sub-achievement (a);
+%%  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+%%    \begin{itemize}
+%%    \item Sub-sub-achievement i;
+%%    \item Sub-sub-achievement ii;
+%%    \item Sub-sub-achievement iii;
+%%    \end{itemize}
+%%  \item Sub-achievement (c);
+%%  \end{itemize}
+%%\item Achievement 3.
+%%\end{itemize}
+%\cventry{Fall 2018}{Practice and Pedagogy Leader}{Vanderbilt University Center for Teaching}{Nashville, TN}{}{Position co-leading the pedagogical component of incoming teaching assistant orientation for physics.}
+%\cventry{2015--2017}{Physics Teaching Assistant}{Vanderbilt University}{Nashville, TN}{}{Position teaching undergraduate lab courses in the physics department at Vanderbilt.}
+%\cventry{Fall 2017}{Teaching Affiliate}{Vanderbilt University Center for Teaching}{Nashville, TN}{}{Position leading the orientation of a group of incoming teaching assistants and organizing follow-up sessions to ease the transition into a teaching role at the university.}
+%\cventry{2013--2015}{Physics Teaching Assistant}{Berea College Physics Department}{Berea, KY}{}{Position working with students to help with their studies in physics, as well as continuing the research duties mentioned above.}
+%\cventry{2013--2015}{Computer Science Teaching Assistant}{Berea College Computer Science Department}{Berea, KY}{}{Position tutoring students and assisting development of a new introductory programming course.}
 %% \cventry{2011--2013}{Manager of Media Team and Help Desk Employee}{Berea College Technology Resource Center}{Berea, KY}{}{Leadership role managing multiple trainees and experienced student staff on technical services and customer support.}
 
 \section{Grants}
+\cventry{Pending}{STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems}{}{}{}{Senior Personnel on DOE topical collaboration in machine learning proposal.}
 \cventry{2020-2021 FY}{Texas A\&M High Performance Research Computing Research Grant}{}{}{}{605000 service unit research grant to study systematic uncertainties in low-energy nuclear fusion reactions.}
 
-\section{Talks Given}
-\cventry{2021}{APS Division of Nuclear Physics}{Virtual}{}{}{}
-\cventry{2021}{APS April Meeting}{Virtual}{}{}{}
+\section{Invited Talks/Seminars}
+\cventry{2023}{Eigenvector continuation method in nuclear structure and reaction theory}{CEA-Saclay}{}{}{}
+\cventry{2022}{Lawrence Livermore National Lab NDT/NPP Seminar}{Virtual}{}{}{}
+\cventry{2022}{ICFN7}{Sanibel Island, Florida}{}{}{}
+\cventry{2022}{UIUC Nuclear Theory Seminar}{University of Illinois Urbana-Champaign}{}{}{}
 \cventry{2020}{Los Alamos National Lab T2 Seminar}{Virtual}{}{}{}
-\cventry{2020}{APS Division of Nuclear Physics}{Virtual}{}{}{}
 \cventry{2020}{Texas A\&M Cyclotron Seminar}{Texas A\&M}{}{}{}
+\section{Contributed Talks}
+\cventry{Mult.}{APS Division of Nuclear Physics}{Virtual/In Person}{}{}{}
+\cventry{2021}{APS April Meeting}{Virtual}{}{}{}
 \cventry{2014}{National Conference on Undergraduate Research}{University of Kentucky}{}{}{}
 \cventry{2013}{99th Annual Meeting of the Kentucky Academy of Sciences}{Morehead State University}{}{}{}
 %\pagebreak
 \section{Workshops/Hackathons/Summer Schools}
-\cventry{2021}{QHack Quantum Machine Learning Hackathon}{Online}{}{}{}
+\cventry{2022}{Quantum Computing and Nuclear Few- and Many-Body Problems FRIB-Theory Alliance Summer School}{Michigan State University}{}{}{}
+\cventry{2021,2022}{QHack Quantum Machine Learning Hackathon}{Online}{}{}{}
 \cventry{2020}{IBM Quantum Challenge}{Online}{}{}{}
 \cventry{2020}{1\textsuperscript{st} Lindau Sciathon}{Online}{}{}{}
 \cventry{2019}{69\textsuperscript{th} Lindau Nobel Laureate Meeting}{Lindau, Germany}{}{}{}
@@ -163,8 +170,8 @@
 
 \section{Computer skills}
 \cvitem{Programming Languages}{Fortran, Python, C, C++, CUDA}
-\cvitem{Paradigms}{High performance computing, Parallel computing, Machine learning}
-\cvitem{System Experience}{MSU HPCC; TAMU HPRC - Terra, Ada; Australian NCI - Raijin, Gadi; OLCF - Summit}
+\cvitem{Paradigms}{High performance computing, Parallel computing, Machine learning, Cloud Computing}
+\cvitem{System Experience}{MSU HPCC; TAMU HPRC - Terra, Ada; Australian NCI - Raijin, Gadi; OLCF - Summit; ALCF - Polaris; AMD Private Cluster}
 
 \section{Society memberships}
 \cvitem{}{American Physical Society}
@@ -231,8 +238,8 @@
 \printbibliography[title={Journal Articles}, type=article, resetnumbers=true]%, resetnumbers=true]
 %\DeclareFieldFormat{labelnumberwidth}{#1}
 
+\printbibliography[title={Books}, type=book, resetnumbers=true]%, resetnumbers=true]
 \printbibliography[title={Conference Proceedings}, type=inproceedings, resetnumbers=true]%, resetnumbers=true]
-
 \printbibliography[title={Popular Science}, type=online, resetnumbers=true]%, resetnumbers=true]
 
 
