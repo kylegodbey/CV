@@ -33,14 +33,14 @@ K. Godbey, LECM Plenary Session, FRIB, 10th August 2023
 Leveraging Advanced Scientific Computing and Statistics in NUCLEI  
 K. Godbey, SciDAC PI Meeting, Rockville, MD, 13th September 2023
 
-Prospects for Discovery In the Dynamics of Heavy Nuclei and Nuclear Data
+Prospects for Discovery In the Dynamics of Heavy Nuclei and Nuclear Data  
 K. Godbey, S@INT Seminar, Seattle WA, 10th October 2023
 
-From Structure to Fission: Prospects for Discovery In Low-Energy Heavy-Ion Reactions
+From Structure to Fission: Prospects for Discovery In Low-Energy Heavy-Ion Reactions  
 K. Godbey, LANL T2 Seminar, Los Alamos NM, 23rd October 2023
 
-Low-energy nuclear reactions as a probe for exotic nuclei
+Low-energy nuclear reactions as a probe for exotic nuclei  
 K. Godbey, UTK Nuclear Seminar, Knoxville TN, 30th October 2023
 
-Near-Barrier Reactions as a Probe for Exotic Nuclei
+Near-Barrier Reactions as a Probe for Exotic Nuclei  
 K. Godbey, FUSION23, Shizuoka JP, 20th November
