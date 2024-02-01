@@ -27,7 +27,7 @@ K. Godbey, Departmental Seminar, UAM Madrid, 7th June 2023
 Primer on Practical Emulation with a focus on modern machine learning methods  
 K. Godbey, FRIB-TA Summer School on Practical UQ, FRIB, 27th June 2023
 
-Hands-on With Nuclear Theory
+Hands-on With Nuclear Theory  
 K. Godbey, Exotic Beam Summer School, FRIB, 10th July 2023
 
 Motivations and Opportunities In Heavy-Ion Dynamics  
