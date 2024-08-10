@@ -1,3 +1,32 @@
+*Bold signifies invited talk, seminar, or colloquium*
+
+## 2024
+
+Update on Microscopic Description of Fission  
+K. Godbey, Stewardship Science Academic Programs Symposium, Arlington VA, 21st February 2024
+
+Prospects on Uncertainty Quantification in Nuclear Theory: The BAND Software Framework  
+K. Godbey, Workshop for Applied Nuclear Data Activities, Arlington VA, 28th February 2024
+
+
+K. Godbey, NP3M Seminar, Virtual, 28th March 2024
+
+K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 19th April 2024
+
+K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 22nd April 2024
+
+K. Godbey, Workshop on Software Infrastructure for Advanced Nuclear Physics Computing, Newport News VA, 20th June 2024
+
+K. Godbey, Inverse Problems and Uncertainty Quantification in Nuclear Physics, Seattle WA, 8th July 2024
+
+K. Godbey, Low Energy Community Meeting, Knoxville TN, 8th August 2024
+
+K. Godbey, Nucleus Nucleus Collisions, Whistler British-Columbia Canada, 21st August 2024
+
+K. Godbey, APS Division of Nuclear Physics Annual Meeting, Boston MA, 6th October 2024
+
+K. Godbey, ISNET-10, Shanghai China, 13th November 2024
+
 ## 2023
 
 Impact of uncertainties of initial states on heavy-ion collision outcomes at low energies  
@@ -48,30 +77,5 @@ K. Godbey, UTK Nuclear Seminar, Knoxville TN, 30th October 2023
 Near-Barrier Reactions as a Probe for Exotic Nuclei  
 K. Godbey, FUSION23, Shizuoka JP, 20th November 2023
 
-## 2024
 
-Update on Microscopic Description of Fission  
-K. Godbey, Stewardship Science Academic Programs Symposium, Arlington VA, 21st February 2024
-
-Prospects on Uncertainty Quantification in Nuclear Theory: The BAND Software Framework  
-K. Godbey, Workshop for Applied Nuclear Data Activities, Arlington VA, 28th February 2024
-
-
-K. Godbey, NP3M Seminar, Virtual, 28th March 2024
-
-K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 19th April 2024
-
-K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 22nd April 2024
-
-K. Godbey, Workshop on Software Infrastructure for Advanced Nuclear Physics Computing, Newport News VA, 20th June 2024
-
-K. Godbey, Inverse Problems and Uncertainty Quantification in Nuclear Physics, Seattle WA, 8th July 2024
-
-K. Godbey, Low Energy Community Meeting, Knoxville TN, 8th August 2024
-
-K. Godbey, Nucleus Nucleus Collisions, Whistler British-Columbia Canada, 21st August 2024
-
-K. Godbey, APS Division of Nuclear Physics Annual Meeting, Boston MA, 6th October 2024
-
-K. Godbey, ISNET-10, Shanghai China, 13th November 2024
 
