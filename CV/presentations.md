@@ -1,10 +1,10 @@
 ## Summary
 
-2 colloquiua
-6 seminars
-2 panels
-16 invited talks
-5 contributed talks
+2 colloquiua  
+6 seminars  
+2 panels  
+16 invited talks  
+5 contributed talks  
 
 *Bold signifies invited talk, seminar, or colloquium*
 
