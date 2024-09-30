@@ -1,9 +1,9 @@
-## Summary
+## Summary 2023-Current
 
-2 colloquiua  
-6 seminars  
+1 colloquium  
+7 seminars  
 2 panels  
-16 invited talks  
+17 invited talks  
 5 contributed talks  
 
 *Bold signifies invited talk, seminar, or colloquium*
@@ -32,7 +32,9 @@ K. Godbey, Nucleus Nucleus Collisions, Whistler British-Columbia Canada, 21st Au
 
 **K. Godbey, APS Division of Nuclear Physics Annual Meeting, Boston MA, 6th October 2024**
 
-**K. Godbey, Colloquium, Wayne State University Physics Department, October 2024**
+**K. Godbey, Seminar, Wayne State University Physics Department, 25th October 2024**
+
+**K. Godbey, Dense Nuclear Matter Equation of State from Theory and Experiments, Lansing MI, 31st October 2024**
 
 **K. Godbey, ISNET-10, Shanghai China, 13th November 2024**
 
