@@ -1,7 +1,7 @@
 ## Summary 2023-Current
 
 1 colloquium  
-7 seminars  
+10 seminars  
 2 panels  
 17 invited talks  
 5 contributed talks  
@@ -16,9 +16,17 @@ K. Godbey, Stewardship Science Academic Programs Symposium, Arlington VA, 21st F
 **Prospects on Uncertainty Quantification in Nuclear Theory: The BAND Software Framework  
 K. Godbey, Workshop for Applied Nuclear Data Activities, Arlington VA, 28th February 2024**
 
-**K. Godbey, NP3M Seminar, Virtual, 28th March 2024**
+**[Mining physical insight from time dependent many-body dynamics](https://docs.google.com/presentation/d/1IFOChwaqHaGpoMOVSA0s3VEVCaZfD6q0LMsCSj-3hvo/edit?usp=sharing)  
+K. Godbey, NP3M Seminar, Virtual, 28th March 2024**
 
-**K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 19th April 2024**
+**[Data-driven discovery in time dependent many-body dynamics](https://docs.google.com/presentation/d/1jwk84laCPuevRNldPaznLyr6RQLENpGhoJnjcz5GmeY/edit?usp=sharing)  
+K. Godbey, PKU Seminar, Beijing China, 14th April 2024**
+
+**[Recent progress in time dependent many-body dynamics](https://docs.google.com/presentation/d/1M0SekEpkmM_XPV9OTbyFCXoEs86FBbc5Wq_-oPUTQqs/edit?usp=sharing)  
+K. Godbey, UCAS Seminar, Beijing China, 16th April 2024**
+
+**[Nuclear Structure in the Era of Bayesian Analyses](https://docs.google.com/presentation/d/12fXgFym5_syMTsAt7qP1DkE1gf_IqQ3ggjprophj-YU/edit?usp=sharing)  
+K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 19th April 2024**
 
 **K. Godbey, Workshop on Software Infrastructure for Advanced Nuclear Physics Computing, Newport News VA, 20th June 2024**
 
@@ -29,15 +37,23 @@ K. Godbey, Workshop for Applied Nuclear Data Activities, Arlington VA, 28th Febr
 
 K. Godbey, Nucleus Nucleus Collisions, Whistler British-Columbia Canada, 21st August 2024
 
-**K. Godbey, APS Division of Nuclear Physics Annual Meeting, Boston MA, 6th October 2024**
+**[The Role of Open Source Science in the AI Era](https://docs.google.com/presentation/d/1XESGybtoE7xvolNbthNdmn1Ga518VnN0JKEPVjKGwrw/edit?usp=sharing)  
+K. Godbey, APS Division of Nuclear Physics Annual Meeting, Boston MA, 6th October 2024**
 
-**K. Godbey, Seminar, Wayne State University Physics Department, 25th October 2024**
+**[Data-driven discovery across low-energy nuclear physics](https://docs.google.com/presentation/d/1vqVY6O9zH_21gPc5Bk4fQvP5Ao12Vk70hzWTY6Xgk4A/edit?usp=sharing)  
+K. Godbey, Seminar, Wayne State University Physics Department, 23rd October 2024**
 
-**K. Godbey, Dense Nuclear Matter Equation of State from Theory and Experiments, Lansing MI, 31st October 2024**
+**[Reproducible Bayesian Workflows for Model Mixing and Calibration](https://docs.google.com/presentation/d/1DkuXaGHSvYAYYSaTS-uZHLDs3-rkDhgp2Ck9OLrswvg/edit?usp=sharing)  
+K. Godbey, Dense Nuclear Matter Equation of State from Theory and Experiments, Lansing MI, 31st October 2024**
 
 **K. Godbey, ISNET-10, Shanghai China, 13th November 2024**
 
-**K. Godbey, Halliday Colloquium, Vanderbilt University Physics Department, Nashville TN, 21st November 2024**
+**[A New Era of Discovery in Low Energy Nuclear Science](https://docs.google.com/presentation/d/1GbtBZoF1o_Ek9n-eUKqVowVht4pZNIdwBPvkzn7i2fI/edit?usp=sharing)  
+K. Godbey, Halliday Colloquium, Vanderbilt University Physics Department, Nashville TN, 21st November 2024**
+
+**[Reaction Dynamics In Time-Dependent Density Functional Theory
+](https://docs.google.com/presentation/d/1tP6aztoCZTw2l-B95QHlJHVBWJUawmb6TBsyxCn_yFI/edit?usp=sharing)  
+K. Godbey, FRIB Theory Seminar, East Lansing MI, 3rd December 2024**
 
 ## 2023
 
