@@ -1,12 +1,34 @@
 ## Summary 2023-Current
 
-1 colloquium  
+2 colloquia  
 10 seminars  
 2 panels  
-17 invited talks  
+25 invited talks  
 5 contributed talks  
 
 *Bold signifies invited talk, seminar, or colloquium*
+
+## 2025
+
+**K. Godbey, ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento IT, 17th November 2025**
+
+**K. Godbey, Electromagnetic Interactions with Nucleons and Nuclei (EINN), Paphos CY, 26th October 2025**
+
+**K. Godbey, APS DNP, Chicago IL, 17th October 2025**
+
+**K. Godbey, NUCLear Exotic structures And Related phenomena (NUCLEAR2025), Shanghai CN, 22nd September 2025**
+
+**[Nuclear Data and DFT: Perspectives for Nuclear Astrophysics](https://docs.google.com/presentation/d/1i4GxcSd30P6j_uCZCUfE0pS5hf7WCWTSnmQ-6QU9rWY/edit?usp=sharing)
+K. Godbey, IReNA-UKAKUREN Workshop, Osaka Metropolitan University, Osaka JP, 14th July 2025**
+
+**[A New Era of Discovery in Low Energy Nuclear Science](https://docs.google.com/presentation/d/1DcKEhREPoN8sXgvtId2AEuQ-1cGD019L9svBPdZZ_dg/edit?usp=sharing)
+K. Godbey, Ohio University Physics Colloquium, Athens OH, 4th April 2025**
+
+**[What can AI/ML do for us? Exploring the power (and potential problems) of AI/ML in nuclear physics](https://docs.google.com/presentation/d/1DwCkJrxMGi14r12dzpcR0MJNCGtKVIQtWPRr2nrrUus/edit?usp=sharing)
+K. Godbey, TRIP Symposium, RIKEN Nishina Center, Tokyo JP, 10th March 2025**
+
+**[Summary on the Workshop on Software Infrastructure for Advanced Nuclear Physics Computing](https://docs.google.com/presentation/d/1CGaTqkN45rFlTGyEBuB26nEiI4qmwGEXh3rFWRuqE6g/edit?usp=sharing)
+K. Godbey, Workshop for Applied Nuclear Data Activities, Arlington VA, 11th February**
 
 ## 2024
 
