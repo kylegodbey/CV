@@ -10,7 +10,8 @@
 
 ## 2025
 
-**K. Godbey, ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento IT, 17th November 2025**
+**[Efficient Model Combination with pybmc](https://docs.google.com/presentation/d/1xRZo72xdc_uwMq-Jl6Gk9myKCNaJ4I2mLoLPHqvQcQo/edit?usp=sharing)  
+K. Godbey, ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento IT, 17th November 2025**
 
 **K. Godbey, Electromagnetic Interactions with Nucleons and Nuclei (EINN), Paphos CY, 26th October 2025**
 
