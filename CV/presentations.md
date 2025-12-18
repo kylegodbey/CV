@@ -1,6 +1,6 @@
 ## Summary 2023-Current
 
-2 colloquia  
+3 colloquia  
 10 seminars  
 2 panels  
 25 invited talks  
@@ -10,10 +10,12 @@
 
 ## 2025
 
+**[Generative AI in Higher Education: A Facilitated Discussion](https://docs.google.com/presentation/d/12fzZ_vRAKuTdkG4Dr4YaKRDYkqcLjlYsfMnxzzuJAnI/edit?usp=sharing)  
+P. Giuliani, _K. Godbey_, J. T. Singh, Physics Colloquium, Michigan State University, East Lansing MI, 4th December 2025**
+
+
 **[Efficient Model Combination with pybmc](https://docs.google.com/presentation/d/1xRZo72xdc_uwMq-Jl6Gk9myKCNaJ4I2mLoLPHqvQcQo/edit?usp=sharing)  
 K. Godbey, ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento IT, 17th November 2025**
-
-**K. Godbey, Electromagnetic Interactions with Nucleons and Nuclei (EINN), Paphos CY, 26th October 2025**
 
 **K. Godbey, APS DNP, Chicago IL, 17th October 2025**
 
