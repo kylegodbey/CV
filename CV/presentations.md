@@ -17,7 +17,8 @@ P. Giuliani, _K. Godbey_, J. T. Singh, Physics Colloquium, Michigan State Univer
 **[Efficient Model Combination with pybmc](https://docs.google.com/presentation/d/1xRZo72xdc_uwMq-Jl6Gk9myKCNaJ4I2mLoLPHqvQcQo/edit?usp=sharing)  
 K. Godbey, ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento IT, 17th November 2025**
 
-**K. Godbey, APS DNP, Chicago IL, 17th October 2025**
+**[Increasing Adoption of Applied Data Science in Nuclear Physics](https://docs.google.com/presentation/d/1YaE875_oIhMD7xxPnKDaxSd7B_P0hRLWGi-MD03wIXM/edit?usp=sharing)  
+K. Godbey, APS DNP, Chicago IL, 17th October 2025**
 
 **[Machine Learning Across Nuclear Structure and Dynamics](https://docs.google.com/presentation/d/1s6S9_0-mNW6_wk9BFS5WVCz3yD3UbpEahzXXcG4xXgw/edit?usp=sharing)  
 K. Godbey, NUCLear Exotic structures And Related phenomena (NUCLEAR2025), Shanghai CN, 22nd September 2025**
