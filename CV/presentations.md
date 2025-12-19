@@ -55,12 +55,17 @@ K. Godbey, UCAS Seminar, Beijing China, 16th April 2024**
 **[Nuclear Structure in the Era of Bayesian Analyses](https://docs.google.com/presentation/d/12fXgFym5_syMTsAt7qP1DkE1gf_IqQ3ggjprophj-YU/edit?usp=sharing)  
 K. Godbey, Exploring Nuclear Physics Across Energy Scales, Beijing China, 19th April 2024**
 
-**K. Godbey, Workshop on Software Infrastructure for Advanced Nuclear Physics Computing, Newport News VA, 20th June 2024**
+**The BAND Software Framework  
+K. Godbey, Workshop on Software Infrastructure for Advanced Nuclear Physics Computing, Newport News VA, 20th June 2024**
 
-**K. Godbey, Inverse Problems and Uncertainty Quantification in Nuclear Physics, Seattle WA, 8th July 2024**
+**[Perspectives for Accessible and Reproducible Bayesian Workflows](https://docs.google.com/presentation/d/1phyqtNiJb8sEwlwbjZNaVGrCc5Oz3XRIJvSSIWRblak/edit?usp=sharing)  
+K. Godbey, Inverse Problems and Uncertainty Quantification in Nuclear Physics, Seattle WA, 8th July 2024**
 
-**K. Godbey, Low Energy Community Meeting, Knoxville TN, 8th August 2024**
-**K. Godbey, Low Energy Community Meeting, Knoxville TN, 7th August 2024**
+**Early Career Researcher Panel  
+K. Godbey, Low Energy Community Meeting, Knoxville TN, 8th August 2024**
+
+**[Potential Impact of Rare Isotope Beam Studies on our Knowledge of Fission](https://docs.google.com/presentation/d/1RYREM8eWGP3iuTRBoynENHgnQatKEPkmn0A_xEBgFi8/edit?usp=sharing)  
+K. Godbey, Low Energy Community Meeting, Knoxville TN, 7th August 2024**
 
 K. Godbey, Nucleus Nucleus Collisions, Whistler British-Columbia Canada, 21st August 2024
 
